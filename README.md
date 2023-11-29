@@ -6,12 +6,6 @@
 
 รายละเอียดโครงการ : https://docs.google.com/document/d/1bn_71K9RF_K8MaBbZNgUAtS7PgFJkon91lOat7AtFxw/edit
 
-
-คำสั่ง git พื้นฐานในการอัปโหลดโค้ดขึ้นมาที่ repository นี้
-
-```bash
-git add .
-git commit -m "<commit_message>"
 git push -u origin main
 ```
 # SOS-Alert @Hackathy : “ ให้เราเป็นความปลอดภัยของนิสิต มก ”
