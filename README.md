@@ -6,8 +6,6 @@
 
 รายละเอียดโครงการ : https://docs.google.com/document/d/1bn_71K9RF_K8MaBbZNgUAtS7PgFJkon91lOat7AtFxw/edit
 
-git push -u origin main
-```
 # SOS-Alert @Hackathy : “ ให้เราเป็นความปลอดภัยของนิสิต มก ”
 * นิสิตไม่รู้ต้องแจ้งเหตุด่วนเหตุร้ายที่ไหน 
 * นิสิตไม่ได้รับแจ้งเตือนเหตุฉุกเฉิน 
