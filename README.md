@@ -32,8 +32,9 @@ SOS Alert ให้บริการ 3 ฟีเจอร์ เพื่อต
 ### 3. SOS Alert Map
 “ ไฟตรงคณะเราดับ อยากแก้ไขจัง ต้องร้องเรียนที่ใครเนี่ย” ฟีเจอร์ SOS Alert Map ที่จะสามารถร้องเรียนปัญหาที่พบเจอในมหาวิทยาลัยได้ แล้วปัญหานั้นจะขึ้นใน Map เพื่อให้เรารู้ตำแหน่ง รายละเอียด รูปภาพ และยังสามารถเห็นด้วยกับคำร้องของเพื่อนที่แจ้งปัญหานั้นไปแล้วด้วยได้
 
+<img width="396" alt="image" src="https://github.com/Tezigudo/hackathon-2023-hackaty/assets/80502090/8411784c-f3b0-4c5a-8ef6-954ed304bf3b">
 
-![SOS-Alert-Map](https://github.com/hackathon-ku/hackathon-2023-hackaty/assets/90249534/c04b42bb-9182-4cc3-a4ec-0cb90791a8a9)
+[//]: <> (https://github.com/hackathon-ku/hackathon-2023-hackaty/assets/90249534/c04b42bb-9182-4cc3-a4ec-0cb90791a8a9)
 
 ## Design
 
